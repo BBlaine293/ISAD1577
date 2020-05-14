@@ -1,0 +1,12 @@
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.csprojAssemblyReference.cache
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.Form1.resources
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.Properties.Resources.resources
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.csproj.GenerateResource.cache
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.csproj.CoreCompileInputs.cache
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\bin\Debug\ISAD1577.exe.config
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\bin\Debug\ISAD1577.exe
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\bin\Debug\ISAD1577.pdb
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\bin\Debug\MySql.Data.DLL
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.csproj.CopyComplete
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.exe
+C:\Users\Blaine\source\repos\ISAD1577\ISAD1577\obj\Debug\ISAD1577.pdb
